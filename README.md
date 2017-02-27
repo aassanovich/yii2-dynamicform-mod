@@ -26,7 +26,7 @@ to the require section of your `composer.json` file.
 Usage
 ----------
 ###Hypothetical Scenario
-![Database](http://wbraganca.com/img/yii2-dynamicform-db.png)
+![Database](http://wbraganca.com/img/yii2-dynamicform/sample.jpg)
 
 ###The View
 
@@ -34,7 +34,7 @@ Usage
 <?php
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
-use wbraganca\dynamicform\DynamicFormWidget;
+use aassanovich\dynamicform\DynamicFormWidget;
 ?>
 
 <div class="customer-form">
