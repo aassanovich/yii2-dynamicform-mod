@@ -1,7 +1,7 @@
 yii2-dynamicform
 ===================
 It is widget to yii2 framework to clone form elements in a nested manner, maintaining accessibility.
-![yii2-dynamicform](http://wbraganca.com/img/yii2-dynamicform-2.0.0.jpg)
+![yii2-dynamicform](http://wbraganca.com/img/yii2-dynamicform/sample.jpg)
 
 Installation
 ------------
@@ -26,7 +26,7 @@ to the require section of your `composer.json` file.
 Usage
 ----------
 ###Hypothetical Scenario
-![Database](http://wbraganca.com/img/yii2-dynamicform/sample.jpg)
+![Database](http://wbraganca.com/img/yii2-dynamicform/hypothetical-scenario.jpg)
 
 ###The View
 
